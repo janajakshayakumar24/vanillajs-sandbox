@@ -1,0 +1,23 @@
+{
+  "name": "vanillajs-sandbox",
+  "version": "1.0.0",
+  "description": "A vanilla Javascript sandbox repository.",
+  "keywords": [
+    "javascript"
+  ],
+  "homepage": "https://github.com/janajakshayakumar24/vanillajs-sandbox#readme",
+  "bugs": {
+    "url": "https://github.com/janajakshayakumar24/vanillajs-sandbox/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/janajakshayakumar24/vanillajs-sandbox.git"
+  },
+  "license": "ISC",
+  "author": "Akshayakumar Janaj",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
