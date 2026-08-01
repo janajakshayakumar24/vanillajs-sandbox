@@ -1,2 +1,1 @@
-# vanillajs-sandbox
-Vanilla JS Sandbox
+A sandbox environment to experiment with Javascript.
